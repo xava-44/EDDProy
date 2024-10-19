@@ -5,6 +5,10 @@ VisualStudioVersion = 17.10.35004.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDDProy", "EDDProy\EDDProy.csproj", "{46442EDF-3D6F-4384-9AD9-E03059889C4B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ejemplosc#", "..\source\repos\ejemplosc#\ejemplosc#\ejemplosc#.csproj", "{6E72F861-7A4C-4F70-BB63-4C5D6CD49872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estructuras", "..\source\repos\ejemplosc#\Estructuras\Estructuras.csproj", "{3F1E8ADA-C034-4307-BA7A-CD7D48B7482D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{46442EDF-3D6F-4384-9AD9-E03059889C4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46442EDF-3D6F-4384-9AD9-E03059889C4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46442EDF-3D6F-4384-9AD9-E03059889C4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E72F861-7A4C-4F70-BB63-4C5D6CD49872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E72F861-7A4C-4F70-BB63-4C5D6CD49872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E72F861-7A4C-4F70-BB63-4C5D6CD49872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E72F861-7A4C-4F70-BB63-4C5D6CD49872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F1E8ADA-C034-4307-BA7A-CD7D48B7482D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F1E8ADA-C034-4307-BA7A-CD7D48B7482D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F1E8ADA-C034-4307-BA7A-CD7D48B7482D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F1E8ADA-C034-4307-BA7A-CD7D48B7482D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
